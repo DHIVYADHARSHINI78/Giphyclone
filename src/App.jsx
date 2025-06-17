@@ -8,7 +8,10 @@ import Favorites from './pages/Favorites';
 
 import GifPage from './pages/Singlegif';
 import Home from './pages/Home';
-import GifProvider from './Context/gifContext';
+
+import GifProvider from './Context/GifContext';
+ // ✅ correct if folder name is Context and file is gifContext.jsx
+
 
 
 //homepage
