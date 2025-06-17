@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { GifState } from '../Context/gifContext';
+import { GifState } from '../Context/GifContext';
 import Filtergif from '../Components/Filter-gif';
 import Gif from '../Components/Gif.jsx';
 
