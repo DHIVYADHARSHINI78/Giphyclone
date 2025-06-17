@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { GifState } from '../Context/gifContext';
+import { GifState } from '../Context/GifContext';
 import { HiMiniChevronDown, HiMiniChevronUp, HiMiniHeart } from 'react-icons/hi2';
 import { FiExternalLink } from 'react-icons/fi';
 import { IoCodeSharp } from 'react-icons/io5';

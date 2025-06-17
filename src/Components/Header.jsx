@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import img3 from '../assets/img3.svg';
 import { HiEllipsisVertical, HiMiniBars3BottomRight } from "react-icons/hi2";
-import { GifState } from '../Context/gifContext';
+import { GifState } from '../Context/GifContext';
 import GifSearch from './GifSearch';
 
 const Header = () => {
